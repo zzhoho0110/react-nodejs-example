@@ -8,5 +8,5 @@
 - Started Docker container in the instance
 - Configured external acces
 
-
+![React Node.js Example](./react-nodejs-example.png)
 
